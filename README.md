@@ -12,7 +12,7 @@ ios에서 사용할수 있는 언어로 Swift 언어를 이용하여 제작을 �
   자취를 하다 보니 냉장고에 무엇이 들어있는지 잘 모르고 있던 재료를 또 사게 되거나 냉장고 구석에 있어 재료를 못찾고 유통기간이 지났던 경험을 바탕으로 그러한 일을 줄이기 위해 제작을 했다.
   
 # 구현기술
-  UI: LanuchScreen을 이용하여 로딩 화면 제작, Tabpar를 이용한 Main Scene제작, Navigationbar를 이용한 테이블 만들기, Date Picker를 이용하여 유통기간과 구입 일자 선택, Webview를 이용하여 youtube,googleMap 등 url을 앱 내에서 작동 시키기 위해
+  UI: LanuchScreen을 이용하여 로딩 화면 제작, Tabpar를 이용한 Main Scene제작, Navigationbar를 이용한 테이블 만들기, Date Picker를 이용하여 유통기간과 구입 일자 선택, Webview를 이용하여 youtube,googleMap 등 url을 앱 내에서 작동 시키기 위해<br>
   DataStorage: Archiving을 이용하여 데이터를 저장및 불러오기 
 
 # 특징
@@ -26,6 +26,6 @@ ios에서 사용할수 있는 언어로 Swift 언어를 이용하여 제작을 �
   음식이 바뀔 때마다 url을 바꿔주는 부분에서 Encoder 해주는 부분
   Info.plist를 수정하여 https 뿐만이 아니라 http를 웹 뷰로 띄워주는 부분
 
-# UI
+# Main UI
  ![image](https://user-images.githubusercontent.com/38156821/43880950-7b2dd052-9be5-11e8-84a6-7f3aa31c5ff5.png)
 
