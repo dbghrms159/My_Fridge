@@ -27,4 +27,5 @@ ios에서 사용할수 있는 언어로 Swift 언어를 이용하여 제작을 �
   Info.plist를 수정하여 https 뿐만이 아니라 http를 웹 뷰로 띄워주는 부분
 
 - UI
- Main UI
+ Main UI:![image](https://user-images.githubusercontent.com/38156821/43880950-7b2dd052-9be5-11e8-84a6-7f3aa31c5ff5.png)
+
