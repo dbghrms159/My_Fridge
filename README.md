@@ -34,5 +34,7 @@ ios에서 사용할수 있는 언어로 Swift 언어를 이용하여 제작을 �
 ![image](https://user-images.githubusercontent.com/38156821/43881294-b2a5e7a8-9be6-11e8-9b17-7825fdaff727.png)
 
 # 냉장고 기능 UI
+![image](https://user-images.githubusercontent.com/38156821/43881384-fe3f3d9a-9be6-11e8-8f48-642a491b2ccc.png)
 
+# 편의점 및 마트 위치 UI
 
